@@ -17,3 +17,4 @@ echo valid
 echo "${F}.${L}"
 echo -n "${F}${L}"|sha1sum
 fi
+hi
